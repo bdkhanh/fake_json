@@ -1,11 +1,6 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "order_info": {
+    "total_price": 100,
+    "products": [ { "name": "Product 1", "price": 100, "quantity": 1 } ]
   }
 }
